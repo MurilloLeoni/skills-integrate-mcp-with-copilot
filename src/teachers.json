@@ -1,0 +1,8 @@
+[
+  {
+    "username": "teacher",
+    "salt": "mergington-teacher-salt",
+    "iterations": 200000,
+    "password_hash": "8a6258d2176addff85b6a129a8026d2e89b793a6bbee763d76e29289d2ef2900"
+  }
+]
